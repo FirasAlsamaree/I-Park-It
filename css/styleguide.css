@@ -1,0 +1,43 @@
+:root { 
+  --alto: #d9d9d9;
+  --black: #000000;
+  --ghost: #ccced5;
+  --granite-gray: #666666;
+  --purple-heart: #874be9;
+  --white: #ffffff;
+ 
+  --font-size-l: 26px;
+  --font-size-m: 23px;
+  --font-size-s: 15px;
+  --font-size-xl: 49px;
+  --font-size-xs: 13px;
+  --font-size-xxs: 11px;
+  --font-size-xxxs: 10px;
+ 
+  --font-family-inria_sans: "Inria Sans", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.g-boardlarge {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.roboto-bold-granite-gray-10px {
+  color: var(--granite-gray);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-semi-bold-granite-gray-11px {
+  color: var(--granite-gray);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 600;
+}

@@ -1,0 +1,67 @@
+/* screen - iphone-14-u38-15-pro-4 */
+
+.iphone-14-u38-15-pro-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 393px;
+}
+
+.iphone-14-u38-15-pro-4 .overlap-group {
+  height: 852px;
+  margin-left: -29px;
+  position: relative;
+  width: 482px;
+}
+
+.iphone-14-u38-15-pro-4 .rectangle-61 {
+  background-color: #160b2d;
+  height: 852px;
+  left: 29px;
+  position: absolute;
+  top: 0;
+  width: 393px;
+}
+
+.iphone-14-u38-15-pro-4 .group-18 {
+  align-items: flex-start;
+  background-image: url(../img/logo-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 142px;
+  left: 169px;
+  min-width: 113px;
+  padding: 24px 3px;
+  position: absolute;
+  top: 76px;
+}
+
+.iphone-14-u38-15-pro-4 .vehicle-1 {
+  height: 54px;
+  object-fit: cover;
+  width: 82px;
+}
+
+.iphone-14-u38-15-pro-4 .title {
+  color: var(--white);
+  font-family: var(--font-family-inria_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  left: 130px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 250px;
+}
+
+.iphone-14-u38-15-pro-4 .hsfijskdfhj-1 {
+  height: 295px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 435px;
+  width: 482px;
+}
